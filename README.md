@@ -13,3 +13,9 @@
 2. Вносим изменения в `README.md`
 3. Коммитим и пушим: `git add`, `git commit`, `git push`
 4. Отрабатываем конфликтную ситуацию: `rejected` при пуше → `git pull` → разрешение конфликта → `git push`
+
+## Изменение от Ивана:
+
+1. ljshfbzxfjgklnfgkjzbdkl'nds
+2. 78512t5i7tyyrhydohyo73yfghvbj
+3. jhn08c75n-nq34godj8ump 348y 859несфтз74прта дор3ме7ш3е щ
