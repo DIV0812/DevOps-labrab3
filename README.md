@@ -17,5 +17,12 @@
 ## Изменение от Ивана:
 
 1. ljshfbzxfjgklnfgkjzbdkl'nds
-2. 78512t5i7tyyrhydohyo73yfghvbj
+2. 78512t5i7tyчyйrhydohyo73yfghvbj
 3. jhn08c75n-nq34godj8ump 348y 859несфтз74прта дор3ме7ш3е щ
+
+## Измененик от Друга:
+
+1. апвав	
+2. м5у8т5у4цтщзшму ыек8тщз
+3. 9сиинапдолвраыкз09
+
